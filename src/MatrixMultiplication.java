@@ -59,7 +59,7 @@ public class MatrixMultiplication {
 
     public static void main(String[] args) {
         // Matrix sizes to test
-        int[] matrixSizes = {10, 100, 1000, 10000};
+        int[] matrixSizes = {10, 50, 150, 300, 450, 500, 650, 800, 1000};
 
         // Run the matrix multiplication for each size
         for (int size : matrixSizes) {
